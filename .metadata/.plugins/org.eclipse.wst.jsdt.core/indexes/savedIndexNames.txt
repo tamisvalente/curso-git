@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+/home/thamiris/curso-git/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3779875982.index
+2018372985.index
+1931972458.index
+427517846.index
+2187000329.index

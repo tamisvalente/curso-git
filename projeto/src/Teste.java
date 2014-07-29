@@ -9,6 +9,8 @@ public class Teste {
 		
 		System.out.println("teste teste");
 		
+		System.out.println("alterado");
+		
 		
 	}
 
